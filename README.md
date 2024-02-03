@@ -13,7 +13,8 @@
 
 <h1>1974 German Military Thing</h1>
 
-(https://github.com/ColtonFry/StarterGalleryAssignment/assets/157807270/b8dd16ce-382d-4421-99f1-11ea2a83eba1)
+![10199186](https://github.com/ColtonFry/StarterGalleryAssignment/assets/157807270/bd0fd836-1e86-4ba4-8a4f-5cfb4e7d5b1d)
+
  
 
 </body>
