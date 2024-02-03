@@ -19,6 +19,3 @@
   <body>
 </html>
 
-[https://github.com/ColtonFry/StarterGalleryAssignment/issues/2#issuecomment-1925013166](https://www.rawpixel.com/create/design/01HNPAQ7KCDBAR9JW6FSQGNRJY?path=home.uploads)https://www.rawpixel.com/create/design/01HNPAQ7KCDBAR9JW6FSQGNRJY?path=home.uploads
-
-
