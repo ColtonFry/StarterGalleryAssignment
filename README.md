@@ -4,6 +4,7 @@
   	<p>A person in a blue car on a track.</p>
   </body>
 </html>
+![Drift Car](https://github.com/ColtonFry/StarterGalleryAssignment/assets/157807270/f6098ab9-3ca4-48cf-a9ba-9a9caeecd8aa)
 
 
 <!DOCTYPE html>
@@ -12,7 +13,7 @@
 
 <h1>The img element</h1>
 
-<img src="width="500" height="600">
+<img src="https:/ width="500" height="600">
 
 </body>
 </html>
