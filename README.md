@@ -4,7 +4,7 @@
   	<p>A person in a blue car on a track.</p>
   </body>
 </html>
-
+<img src="Drift Car" alt="Girl in a jacket" width="500" height="600">
 ![Drift Car](https://github.com/ColtonFry/StarterGalleryAssignment/assets/157807270/ac8091a6-3b10-40af-b416-5da00624bbad)
 
 
