@@ -15,7 +15,7 @@
 ![1974 Thing](https://github.com/ColtonFry/StarterGalleryAssignment/assets/157807270/400b14cd-3616-485c-b06d-ee93f1dd2729)
 
 <h1>1972 VW Beetle</h1>
-  <p>Sky Blue and White Punch Buggy</p>
+  <p>Sky Driving out of the sky</p>
   <body>
 </html>
 
