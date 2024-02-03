@@ -4,7 +4,8 @@
   	<p>A person in a blue car on a track.</p>
   </body>
 </html>
-![Drift Car](https://github.com/ColtonFry/StarterGalleryAssignment/assets/157807270/f6098ab9-3ca4-48cf-a9ba-9a9caeecd8aa)
+
+![Drift Car](https://github.com/ColtonFry/StarterGalleryAssignment/assets/157807270/ac8091a6-3b10-40af-b416-5da00624bbad)
 
 
 <!DOCTYPE html>
