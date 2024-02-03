@@ -19,7 +19,6 @@
   <body>
 </html>
 
-https://www.rawpixel.com/create/design/01HNPAQ7KCDBAR9JW6FSQGNRJY?path=home.uploads
-
+https://github.com/ColtonFry/StarterGalleryAssignment/issues/2#issuecomment-1925013166
 
 
