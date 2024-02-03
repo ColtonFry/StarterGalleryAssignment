@@ -7,18 +7,11 @@
 
 ![Drift Car](https://github.com/ColtonFry/StarterGalleryAssignment/assets/157807270/ac8091a6-3b10-40af-b416-5da00624bbad)
 
-
-<!DOCTYPE html>
-<html>
-<body>
-
-<h3>1974 German Military Thing</h3>
-</body>
+<h1>1974 German Military Thing</h1>
+  <p>Camo Colored Kubelwagen</p>
+  <body>
 </html>
-![10199186](https://github.com/ColtonFry/StarterGalleryAssignment/assets/157807270/ea8d9378-7ac7-4a69-b473-3109d539450d)
+
+![1974 Thing](https://github.com/ColtonFry/StarterGalleryAssignment/assets/157807270/400b14cd-3616-485c-b06d-ee93f1dd2729)
 
 
- 
-
-</body>
-</html>
