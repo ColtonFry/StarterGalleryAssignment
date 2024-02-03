@@ -19,3 +19,4 @@
   <body>
 </html>
 
+![design-1706925215363](https://github.com/ColtonFry/StarterGalleryAssignment/assets/157807270/6885bbf5-dc58-4fdb-afb3-a3385609d4e8)
